@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "1106",
+  "base_artist": "WANIMA",
+  "createdAt": "2026-03-27T03:55:11.130115Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "1106",
+      "artist": "WANIMA",
+      "has_synced": true,
+      "path": "select/01_1106_WANIMA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "1106",
+      "artist": "WANIMA",
+      "has_synced": true,
+      "path": "select/02_1106_WANIMA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "1106. George Harrison - My Sweet Lord",
+      "artist": "VA",
+      "has_synced": true,
+      "path": "select/03_1106._George_Harrison_-_My_Sweet_Lord_VA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "1106 - John Cougar Mellencamp - Jack & Diane",
+      "artist": "NDR 2",
+      "has_synced": true,
+      "path": "select/04_1106_-_John_Cougar_Mellencamp_-_Jack_&_Diane_NDR_2.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "1106",
+      "artist": "WANIMA",
+      "has_synced": false,
+      "path": "select/pl_01_1106_WANIMA.txt"
+    }
+  ]
+}
